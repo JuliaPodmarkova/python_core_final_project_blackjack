@@ -1,0 +1,89 @@
+2025-03-30 18:19:56 - ***Start blackjack game***
+2025-03-30 18:19:59 - PLAYER’S BET: -50
+2025-03-30 18:19:59 - Error. WRONG INPUT:
+___player’s bet must be positive integer
+TRY AGAIN:
+2025-03-30 18:20:01 - PLAYER’S BET: jvh.jhghcjxgjtdrs
+2025-03-30 18:20:01 - Error. WRONG INPUT:
+___player’s bet must be an integer
+TRY AGAIN:
+2025-03-30 18:20:03 - PLAYER’S BET: 324
+2025-03-30 18:20:03 - ___player’s bet: 324 chips
+2025-03-30 18:20:03 - ___player’s start hand: (9-spades, 8-diamonds)
+2025-03-30 18:20:03 - ___dealer’s start hand: ([Hidden Card], 6-spades)
+2025-03-30 18:20:06 - PLAYER’S MOVE: ,,jhgf
+2025-03-30 18:20:06 - Invalid input. Please enter 'hit', 'stand', or 'double down'.
+2025-03-30 18:20:08 - PLAYER’S MOVE: 2346789
+2025-03-30 18:20:08 - Invalid input. Please enter 'hit', 'stand', or 'double down'.
+2025-03-30 18:20:16 - PLAYER’S MOVE: hit
+2025-03-30 18:20:16 - DEALER’S MOVE: Hit
+2025-03-30 18:20:16 - ___player’s bet: 324 chips
+2025-03-30 18:20:16 - ___player’s start hand: (9-spades, 8-diamonds, 9-hearts)
+2025-03-30 18:20:16 - ___dealer’s start hand: ([Hidden Card], 6-spades)
+2025-03-30 18:20:16 - Player Busted!
+2025-03-30 18:20:16 - ***Game finish***
+2025-03-30 18:20:16 - RESULTS:
+2025-03-30 18:20:16 - ___player: 26 
+2025-03-30 18:20:16 - ___dealer: 9 
+2025-03-30 18:20:16 - ___player lost
+2025-03-30 18:20:42 - ***Start blackjack game***
+2025-03-30 18:20:46 - PLAYER’S BET: -5654
+2025-03-30 18:20:46 - Error. WRONG INPUT:
+___player’s bet must be positive integer
+TRY AGAIN:
+2025-03-30 18:20:48 - PLAYER’S BET: hg,jmfhndvcsx
+2025-03-30 18:20:48 - Error. WRONG INPUT:
+___player’s bet must be an integer
+TRY AGAIN:
+2025-03-30 18:20:51 - PLAYER’S BET: 532468432
+2025-03-30 18:20:51 - ___player’s bet: 532468432 chips
+2025-03-30 18:20:51 - ___player’s start hand: (4-hearts, 2-diamonds)
+2025-03-30 18:20:51 - ___dealer’s start hand: ([Hidden Card], 7-hearts)
+2025-03-30 18:20:54 - PLAYER’S MOVE: .kjhgfdzvcx
+2025-03-30 18:20:54 - Invalid input. Please enter 'hit', 'stand', or 'double down'.
+2025-03-30 18:20:55 - PLAYER’S MOVE: 0.2315897+/
+2025-03-30 18:20:55 - Invalid input. Please enter 'hit', 'stand', or 'double down'.
+2025-03-30 18:20:58 - PLAYER’S MOVE: -=0897342q	lnjjghfdcgfc 
+2025-03-30 18:20:58 - Invalid input. Please enter 'hit', 'stand', or 'double down'.
+2025-03-30 18:21:02 - PLAYER’S MOVE: hit
+2025-03-30 18:21:02 - DEALER’S MOVE: Hit
+2025-03-30 18:21:02 - ___player’s bet: 532468432 chips
+2025-03-30 18:21:02 - ___player’s start hand: (4-hearts, 2-diamonds, 8-clubs)
+2025-03-30 18:21:02 - ___dealer’s start hand: ([Hidden Card], 7-hearts)
+2025-03-30 18:21:15 - PLAYER’S MOVE: double down
+2025-03-30 18:21:15 - DEALER’S MOVE: Double Down
+2025-03-30 18:21:15 - ___player’s bet: 1064936864 chips
+2025-03-30 18:21:15 - ___player’s start hand: (4-hearts, 2-diamonds, 8-clubs, 9-diamonds)
+2025-03-30 18:21:15 - ___dealer’s start hand: ([Hidden Card], 7-hearts)
+2025-03-30 18:21:15 - Player Busted!
+2025-03-30 18:21:15 - ***Game finish***
+2025-03-30 18:21:15 - RESULTS:
+2025-03-30 18:21:15 - ___player: 23 
+2025-03-30 18:21:15 - ___dealer: 17 
+2025-03-30 18:21:15 - ___player lost
+2025-03-30 19:09:15 - ***Start blackjack game***
+2025-03-30 19:09:17 - PLAYER’S BET: 200
+2025-03-30 19:09:17 - ___player’s bet: 200 chips
+2025-03-30 19:09:17 - ___player’s start hand: (7-clubs, K-clubs)
+2025-03-30 19:09:17 - ___dealer’s start hand: ([Hidden Card], 3-clubs)
+2025-03-30 19:09:23 - PLAYER’S MOVE: double down
+2025-03-30 19:09:23 - DEALER’S MOVE: Double Down
+2025-03-30 19:09:23 - Player Busted!
+2025-03-30 19:09:23 - ***Game finish***
+2025-03-30 19:09:23 - RESULTS:
+2025-03-30 19:09:23 - ___player: 27 
+2025-03-30 19:09:23 - ___dealer: 6 
+2025-03-30 19:09:23 - ___player lost
+2025-03-30 20:51:08 - ***Start blackjack game***
+2025-03-30 20:51:10 - PLAYER’S BET: 500
+2025-03-30 20:51:10 - ___player’s bet: 500 chips
+2025-03-30 20:51:10 - ___player’s start hand: (K-spades, 7-clubs)
+2025-03-30 20:51:10 - ___dealer’s start hand: ([Hidden Card], A-spades)
+2025-03-30 20:51:19 - PLAYER’S MOVE: double down
+2025-03-30 20:51:19 - DEALER’S MOVE: Double Down
+2025-03-30 20:51:19 - Player Busted!
+2025-03-30 20:51:19 - ***Game finish***
+2025-03-30 20:51:19 - RESULTS:
+2025-03-30 20:51:19 - ___player: 25 
+2025-03-30 20:51:19 - ___dealer: 20 
+2025-03-30 20:51:19 - ___player lost
