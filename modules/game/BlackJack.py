@@ -81,7 +81,7 @@ class BlackjackGame:
     def dealer_turn(self):
         self.log_message(f"___player’s bet: {self.bet} chips")
         self.log_message(f"___player’s start hand: ({self.player.display_hand()})")
-        self.log_message(f"___dealer’s start hand: ({self.dealer.display_hand()})")
+        self.log_message(f"___dealer’s start hand: ({self.dealer.display_hand()})")...................
 
         while self.dealer.score < 17:
             new_card = self.deck.deal()
